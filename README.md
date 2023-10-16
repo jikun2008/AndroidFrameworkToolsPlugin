@@ -3,11 +3,11 @@
 ## windows:
 - 拥有一个Linux服务器并安装了samba([安装samba][samba]),在windos通过映射驱动访问Linux服务器文件夹
 - Linux服务器上有Android源码并且编译通过.([编译Android源码][buildAndroid10])
-[![image1][image1]]
-[![image2][image2]]
-[![image3][image3]]
-[![image4][image4]]
-[![image5][image5]]
+![image1][image1]
+![image2][image2]
+![image3][image3]
+![image4][image4]
+![image5][image5]
 
 
 
